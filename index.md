@@ -33,8 +33,8 @@ I am studying computer engineering at PNU tehran shomal University.
 - ICDL1 
 
 ### Other Accounts
--Gmail: amirhossein.78agh@gmail.com
+-Gmail:amirhossein.78agh@gmail.com
 
 - Quera Profile: <a href="https://quera.ir/profile/amirhoseinghafari78">My Profile</a>
 
-  Persian Resume: <a href=" "> Resume </a>
+  Persian Resume: <a href="https://amirhoseinghafari.github.io/resume-farsi/ "> Resume </a>
